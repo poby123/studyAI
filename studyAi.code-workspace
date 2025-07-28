@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": "fashion-mnist"
+    },
+    {
+      "path": "bert"
+    }
+  ]
+}
